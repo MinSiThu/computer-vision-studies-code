@@ -5,6 +5,7 @@ I made a list for these files to easily study step by step.
 
 1. [CV2 Basics](/cv2_tutorials.py)
 2. [CV2 Contours & Mask, thresholding](cv2_contours.py)
+3. [Filters 2D](filters.py)
 
 Technolgies included - python, opencv2, imutils, matplotlib
 
