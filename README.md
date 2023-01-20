@@ -7,6 +7,7 @@ I made a list for these files to easily study step by step.
 2. [CV2 Contours & Mask, thresholding](cv2_contours.py)
 3. [Filters 2D](filters.py)
 4. [Edge Detections](edge_detections.py)
+5. [Scanning Exam Bubble Sheet - OMR](bubble_exam_sheet_omr.py)
 
 Technolgies included - python, opencv2, imutils, matplotlib
 
