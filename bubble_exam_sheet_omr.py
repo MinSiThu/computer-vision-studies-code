@@ -106,6 +106,7 @@ for (bubble,index) in enumerate(np.arange(0,len(bubbleConts),5)):
       color = (255, 0, 0)
       key = ANSWER_KEY[bubble]
       if key == bubbled[1]:
+	correct = correct + 1
         color = (0, 255, 0)
       cv2.drawContours(final_output, [inner_cnts[key]], -1, color, 3)
 
