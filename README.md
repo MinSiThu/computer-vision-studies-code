@@ -8,8 +8,10 @@ I made a list for these files to easily study step by step.
 3. [Filters 2D](filters.py)
 4. [Edge Detections](edge_detections.py)
 5. [Scanning Exam Bubble Sheet - OMR](bubble_exam_sheet_omr.py)
+6. [Image Segmentation with K Means Clustering](image_segmentation_with_k_means_clustering.py)
+7. [CIFAR 10 Image Classification with Tensorflow](cifar_10_image_classification.py)
 
-Technolgies included - python, opencv2, imutils, matplotlib
+Technologies included - python, opencv2, imutils, matplotlib, tensorflow
 
 # LICENSE
 These code bases are mainly for educational purpose & can be used freely for any purpose too. Consequences used by open source consumers are **not guranted** by code base contributor. (DO AS YOU PREFER, I MADE IT FREE)
