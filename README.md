@@ -7,9 +7,10 @@ I made a list for these files to easily study step by step.
 2. [CV2 Contours & Mask, thresholding](cv2_contours.py)
 3. [Filters 2D](filters.py)
 4. [Edge Detections](edge_detections.py)
-5. [Scanning Exam Bubble Sheet - OMR](bubble_exam_sheet_omr.py)
-6. [Image Segmentation with K Means Clustering](image_segmentation_with_k_means_clustering.py)
-7. [CIFAR 10 Image Classification with Tensorflow](cifar_10_image_classification.py)
+5. [Scale Invariant Feature Transform](sift.py)
+6. [Scanning Exam Bubble Sheet - OMR](bubble_exam_sheet_omr.py)
+7. [Image Segmentation with K Means Clustering](image_segmentation_with_k_means_clustering.py)
+8. [CIFAR 10 Image Classification with Tensorflow](cifar_10_image_classification.py)
 
 Technologies included - python, opencv2, imutils, matplotlib, tensorflow
 
