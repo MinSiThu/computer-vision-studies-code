@@ -12,6 +12,7 @@ I made a list for these files to easily study step by step.
 7. [Image Segmentation with K Means Clustering](image_segmentation_with_k_means_clustering.py)
 8. [CIFAR 10 Image Classification with Tensorflow](cifar_10_image_classification.py)
 9. [Snake Classification in Keras using VGG16](Using_VGG16_for_Snake_Classification.ipynb)
+10. [Using Resnet50 pretrained model for classification](Using_Resnet50_pretrained_model.ipynb)
 
 Technologies included - python, opencv2, imutils, matplotlib, tensorflow, keras
 
