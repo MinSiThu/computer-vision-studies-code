@@ -13,6 +13,7 @@ I made a list for these files to easily study step by step.
 8. [CIFAR 10 Image Classification with Tensorflow](cifar_10_image_classification.py)
 9. [Snake Classification in Keras using VGG16](Using_VGG16_for_Snake_Classification.ipynb)
 10. [Using Resnet50 pretrained model for classification](Using_Resnet50_pretrained_model.ipynb)
+11. [Generative Adverserial Network fro MNIST](gan_for_mnist.py)
 
 Technologies included - python, opencv2, imutils, matplotlib, tensorflow, keras
 
